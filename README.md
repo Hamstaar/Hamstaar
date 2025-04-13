@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-### David Ambalov
+Just quietly dropping a couple personal links to see how long it takes Google to find them.
 
-[Visit my personal link drop](https://davidambalov.carrd.co)  
-Just seeing how long it takes Google to find it.
+- [Carrd](https://davidambalov.carrd.co)  
+- [About.me](https://about.me/davidambalov)
+
+— con amor,  
+David Ambalov
 
 <!--
 **Hamstaar/Hamstaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
