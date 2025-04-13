@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-username)
+## Connect with Me
 
-Just quietly dropping a couple personal links to see how long it takes Google to find them.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/david-ambalov-1a527828b)
 
 - [Carrd](https://davidambalov.carrd.co)  
 - [About.me](https://about.me/davidambalov)
