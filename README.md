@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### David Ambalov
+
+[Visit my personal link drop](https://davidambalov.carrd.co)  
+Just seeing how long it takes Google to find it.
+
 <!--
 **Hamstaar/Hamstaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
